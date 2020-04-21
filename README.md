@@ -8,6 +8,8 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/book000/iTunesAutoMinimized.svg)](https://github.com/book000/iTunesAutoMinimized/releases)
 [![Twitter Follow](https://img.shields.io/twitter/follow/book000.svg?style=social)](https://twitter.com/book000)
 
+[日本語の README はこちらから](https://github.com/book000/iTunesAutoMinimized/blob/master/README-ja.md)
+
 Minimize the iTunes screen automatically.
 
 ## Usage

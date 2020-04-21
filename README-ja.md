@@ -8,6 +8,8 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/book000/iTunesAutoMinimized.svg)](https://github.com/book000/iTunesAutoMinimized/releases)
 [![Twitter Follow](https://img.shields.io/twitter/follow/book000.svg?style=social)](https://twitter.com/book000)
 
+[Click here for English README](https://github.com/book000/iTunesAutoMinimized/blob/master/README.md)
+
 iTunes の画面を自動で最小化します。
 
 ## 使い方
